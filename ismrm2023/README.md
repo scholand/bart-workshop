@@ -16,5 +16,5 @@ Based on the abstract:
 This contains a standalone demo that shows how to use BART's phantom tool. The specific focus is on how to create digital objects with arbitrary geometries and 3D coil-sensitivities as well as on how to combine the complex geometries with Bloch simulations to create synthetic MRI data. The demo is self-documented within the directory. The tutorial is set up as jupyter notebook and can interactively be tested using Binder or Google Colaboratory.
 
 - [Jupyter Notebook](./digital-objects/digital-objects.ipynb)
-  <!-- - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-workshop/master?filepath=ismrm2022/simulation/bart_simulation.ipynb)
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bart-workshop/blob/master/ismrm2022/simulation/bart_simulation.ipynb) -->
+  <!-- - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrirecon/bart-workshop/master?filepath=ismrm2022/simulation/bart_simulation.ipynb)-->
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/scholand/bart-workshop/blob/test/ismrm2023/digital-objects/digital-objects.ipynb)
